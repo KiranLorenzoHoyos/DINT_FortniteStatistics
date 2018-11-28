@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">DINT_FortniteStatistics</string>
+    <array name="spinnerItems">
+        <item>pc</item>
+        <item>psn</item>
+        <item>xbl</item>
+    </array>
+</resources>
